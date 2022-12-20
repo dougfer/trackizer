@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "trackizer",
+    "slug": "trackizer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
